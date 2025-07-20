@@ -27,7 +27,7 @@ const Education = () => {
           <h4 className="vertical-timeline-element-subtitle text-gray-300">
             Purdue University, Fort Wayne, USA
           </h4>
-          <p>Currently pursuing</p>
+          <p>Graduated in May 2025</p>
         </VerticalTimelineElement>
 
         {/* JNTU */}
