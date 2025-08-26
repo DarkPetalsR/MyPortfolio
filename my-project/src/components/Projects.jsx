@@ -51,6 +51,18 @@ const projects = [
       ],
       tech: ["React", "Tailwind CSS", "AOS"],
     },
+
+  {
+      name: "Revenue Insights Hospitality Domain (Power BI)",
+      description: "An interactive Power BI dashboard analyzing hotel performance across cities, properties, and booking platforms.",
+      bullets: [
+        "Built with Power BI",
+        "Used AOS for animations.",
+        "Styled using Tailwind CSS."
+      ],
+      tech: ["Power BI", "Excel", "GitHub"],
+    },
+  
 ];
 
 const Projects = () => {
