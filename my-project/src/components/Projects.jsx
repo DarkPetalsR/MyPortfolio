@@ -47,7 +47,7 @@ const projects = [
       bullets: [
         "Built with React and Tailwind CSS.",
         "Used AOS for animations.",
-        "Styled using Tailwind CSS."
+        
       ],
       tech: ["React", "Tailwind CSS", "AOS"],
     },
