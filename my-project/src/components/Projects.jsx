@@ -41,7 +41,7 @@ const projects = [
     tech: ["React Native", "Google Speech API", "Firebase"],
   },
 
-  {
+  { 
       name: "Portfolio",
       description: "My personal portfolio showcasing projects and skills.",
       bullets: [
@@ -52,7 +52,7 @@ const projects = [
       tech: ["React", "Tailwind CSS", "AOS"],
     },
 
-  {
+  { //New Project this is
       name: "Revenue Insights Hospitality Domain (Power BI)",
       description: "An interactive Power BI dashboard analyzing hotel performance across cities, properties, and booking platforms.",
       bullets: [
