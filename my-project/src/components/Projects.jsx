@@ -58,7 +58,7 @@ const projects = [
       bullets: [
         "Built with Power BI",
         "Used AOS for animations.",
-        "Styled using Tailwind CSS."
+        
       ],
       tech: ["Power BI", "Excel", "GitHub"],
     },
